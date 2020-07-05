@@ -1,5 +1,5 @@
 # dtk_sdk
-大淘客SDK
+大淘客golang版本SDK
 
 * dtk_param.go 大淘客协议参数封装
 * dtk_client.go 大淘客请求协议封装
